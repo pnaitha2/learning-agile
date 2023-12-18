@@ -1,2 +1,2 @@
 # learning-agile
-learning-agile
+Just trying to follow along the Agile tutorial...
